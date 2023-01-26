@@ -1,0 +1,7 @@
+pytorch
+json
+tqdm
+matplotlib
+torchmetrics
+torchaudio
+os
