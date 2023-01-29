@@ -33,6 +33,8 @@ To run this project, you need to install several packages. For convenience, we c
 
 In order to install all the packages in the `requirement.txt` file, simply use to command `pip install -r requirements.txt`.
 
+## Dataset
+The dataset can be found in the [link](https://drive.google.com/drive/folders/1SogBbv-odBmNC4vXP9tC1uEtY4BbQZsS?usp=sharing). *The TIDIGITS* dataset where a sequence of up to 7 digits is pronounced in each recording.
 
 
 ## Notes
